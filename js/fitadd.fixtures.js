@@ -1,0 +1,1 @@
+fitadd.fixtures = fitadd.fixtures || {};

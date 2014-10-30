@@ -1,0 +1,1 @@
+var fitadd = window.fitadd || {};

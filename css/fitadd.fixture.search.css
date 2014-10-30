@@ -1,0 +1,17 @@
+#myNavmenu{
+	width: 600px;
+}
+
+#fixture-search-text{
+	width: 400px;
+	margin-left:10px;
+}
+
+#fixture-search-results li{
+	line-height: 1;
+}
+
+#fixture-search-results li a{
+	padding: 5px 10px;
+}
+
